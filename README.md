@@ -1,4 +1,3 @@
----
 
 # **Weather Forecasting Using Deep Learning**
 
@@ -139,5 +138,4 @@ Contributions are welcome! If you find any issues or want to enhance the project
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
 ---
-
 
