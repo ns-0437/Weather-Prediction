@@ -56,7 +56,7 @@ Follow these steps to set up the project in Google Colab or a local Python envir
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-forecasting.git
+   git clone https://github.com/ns-0437/weather-forecasting.git
    cd weather-forecasting
    ```
 
