@@ -1,4 +1,3 @@
-
 # **Weather Forecasting Using Deep Learning**
 
 This project leverages deep learning to predict weather conditions based on historical weather data. Using a Long Short-Term Memory (LSTM) model, the system forecasts five weather parameters: **Temperature**, **Humidity**, **Wind Speed**, **Visibility**, and **Pressure** for the next day based on the previous 5 days' data.
@@ -114,17 +113,5 @@ The model demonstrates reasonable accuracy in predicting weather parameters. Bel
 1. Train the model using the provided script or notebook.
 2. Use the trained model to make predictions for the next day's weather.
 3. Visualize results with the provided plotting functions.
-
-### Example:
-```python
-# Make predictions
-predictions = model.predict(X_test)
-
-# Plot results
-plt.plot(true_values[:, 0], label="True Temperature")
-plt.plot(predicted_values[:, 0], label="Predicted Temperature")
-plt.legend()
-plt.show()
-```
 
 ---
