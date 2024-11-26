@@ -113,5 +113,3 @@ The model demonstrates reasonable accuracy in predicting weather parameters. Bel
 1. Train the model using the provided script or notebook.
 2. Use the trained model to make predictions for the next day's weather.
 3. Visualize results with the provided plotting functions.
-
----
