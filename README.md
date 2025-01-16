@@ -3,7 +3,6 @@
 This project leverages deep learning to predict weather conditions based on historical weather data. Using a Long Short-Term Memory (LSTM) model, the system forecasts five weather parameters: **Temperature**, **Humidity**, **Wind Speed**, **Visibility**, and **Pressure** for the next day based on the previous 5 days data.
 
 ---
-
 ## **Table of Contents**
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
